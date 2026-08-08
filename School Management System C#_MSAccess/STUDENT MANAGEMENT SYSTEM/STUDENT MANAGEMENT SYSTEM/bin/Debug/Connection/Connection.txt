@@ -1,1 +1,0 @@
-Provider=Microsoft.Jet.OLEDB.4.0;Data Source="C:\Users\salma\Documents\HCI_Project\HCI_Project\lms project\Information123.mdb"

@@ -1,0 +1,21 @@
+# Visual Studio build output
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio IDE state
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ClickOnce signing keys
+*.pfx
+
+# MS Access lock files
+*.ldb
+*.laccdb
+
+# OS junk
+Thumbs.db
+.DS_Store
